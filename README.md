@@ -7,3 +7,4 @@ My practice projects while learning JavaScript and Python.
 - prouduct-list : shows products with map and filter
 ## Python 
 - number-guessing-game: a simple guessing game
+- oop_practice: classes and objects (student,product,bankAccount,library)
