@@ -10,3 +10,4 @@ My practice projects while learning JavaScript and Python.
 - oop_practice: classes and objects (student,product,bankAccount,library)
 - todo_terminal: a terminal to-do app that saves tasks in a JSON file
 - inheritance: Person/Student, Animal/Dog/Cat, Employee/Manager, BankAccount/SavingsAccount
+- library_oop:library system with classes ,json storage, borrow and return
