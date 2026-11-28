@@ -1,0 +1,22 @@
+[
+    {
+        "title": "bnava",
+        "author": "sadi",
+        "is_available": true
+    },
+    {
+        "title": "python basics",
+        "author": "sonia",
+        "is_available": true
+    },
+    {
+        "title": "clean code",
+        "author": "martin",
+        "is_available": true
+    },
+    {
+        "title": "bnava",
+        "author": "sadi",
+        "is_available": true
+    }
+]
